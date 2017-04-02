@@ -14,6 +14,8 @@
 
     Application should run on localhost:3000
 
+    TESTING To Be added
+
 
 GitHub API Docs
 https://developer.github.com/v3/
